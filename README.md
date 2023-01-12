@@ -22,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usmanaman&show_icons=true&locale=en&layout=compact" alt="usmanaman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmanaman&show_icons=true&locale=en" alt="usmanaman" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmanaman&show_icons=true&locale=en" alt="usmanaman" /></p> -->
